@@ -1,0 +1,3 @@
+set solib-search-path F:/!Android/Temp/project1/app/src/main/obj/local/armeabi-v7a
+source F:/!Android/Install/android-ndk-r10e/prebuilt/common/gdb/common.setup
+directory F:/!Android/Install/android-ndk-r10e/platforms/android-9/arch-arm/usr/include F:/!Android/Temp/project1/app/src/main/jni/moob/../libzip/ F:/!Android/Temp/project1/app/src/main/jni/moob/../libpng/ F:/!Android/Temp/project1/app/src/main/jni/libzip/. F:/!Android/Temp/project1/app/src/main/jni/libpng/. F:/!Android/Install/android-ndk-r10e/sources/cxx-stl/system/include
